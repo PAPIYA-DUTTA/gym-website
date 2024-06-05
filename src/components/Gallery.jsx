@@ -2,14 +2,14 @@ import React from "react";
 
 const Gallery = () => {
   const gallery = [
-    "/img1.webp",
-    "/img2.jpg",
-    "/img3.jpg",
-    "/img4.jpg",
-    "/img7.jpg",
-    "/img8.jpg",
-    "/img5.jpg",
-    "/img6.jpg",
+    "public/img1.webp",
+    "public/img2.jpg",
+    "public/img3.jpg",
+    "public/img4.jpg",
+    "public/img7.jpg",
+    "public/img8.jpg",
+    "public/img5.jpg",
+    "public/img6.jpg",
   ];
   return (
     <section className="gallery">
