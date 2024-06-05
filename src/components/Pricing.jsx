@@ -5,19 +5,19 @@ import { Link } from "react-router-dom";
 const Pricing = () => {
   const pricing = [
     {
-      imgUrl: "/pricing.jpg",
+      imgUrl: "public/pricing.jpg",
       title: "QUARTERLY",
       price: 18000,
       length: 3,
     },
     {
-      imgUrl: "/pricing.jpg",
+      imgUrl: "public/pricing.jpg",
       title: "HEAL_YEARLY",
       price: 34000,
       length: 6,
     },
     {
-      imgUrl: "/pricing.jpg",
+      imgUrl: "public/pricing.jpg",
       title: "YEARLY",
       price: 67000,
       length: 12,
